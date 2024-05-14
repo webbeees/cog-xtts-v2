@@ -2,6 +2,5 @@ Flask==2.0.1
 requests==2.25.1
 numpy==1.21.0
 cog
-TTS==0.4.1
+TTS==0.22.0  # Update to the latest compatible version
 scikit-learn
-# Add any other dependencies your project requires
