@@ -2,5 +2,6 @@ Flask==2.0.1
 requests==2.25.1
 numpy==1.21.0
 cog
-TTS
+TTS==0.4.1
+scikit-learn
 # Add any other dependencies your project requires
